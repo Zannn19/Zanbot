@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## ZANNN19
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/zannn19/zanbot
+> cd zanbot
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
@@ -43,7 +43,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
+|       ✅       | COMING SOON                        |
 
 ket : ✅ : aktif
 
@@ -53,5 +53,4 @@ ket : ✅ : aktif
 ## THANKS TO
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
-## DONASI
-* Gopay : 081271699856 Reuz
+
