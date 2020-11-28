@@ -17,7 +17,7 @@ const BotName = 'ZAN BOT🤖';
 const instagram = 'https://instagram.com/zanz._'; 
 const telegram = 'https://t.me/kepobeutl'; 
 const kapanbotaktif = 'KETIKA LU TOBAT !!'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/c/Vinxxな';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
